@@ -1,16 +1,15 @@
-## Hi there 👋
+## GitHub Stats
 
-<!--
-**jewfaith/jewfaith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jewfaith&show_icons=true&theme=radical&hide_title=true&hide=prs&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jewfaith&theme=radical&langs_count=10&hide_title=true)
+
+<br>
+
+## Streak Stats
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jewfaith&theme=radical&hide_title=true)
